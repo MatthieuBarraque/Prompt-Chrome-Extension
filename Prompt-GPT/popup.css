@@ -1,0 +1,33 @@
+body {
+    width: 300px;
+    padding: 10px;
+}
+
+.prompt-container {
+    margin-bottom: 10px;
+}
+
+.copy-btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.copy-btn:hover {
+    background-color: #45a049;
+}
+
+#p1, #p2, #p3, #p4 {
+    font-family: Impact, fantasy;
+}
+
+.hidden-text {
+    display: hidden;
+}
+
+span {
+    margin-left: 8px;
+}

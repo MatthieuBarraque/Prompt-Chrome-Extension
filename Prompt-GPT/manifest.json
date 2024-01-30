@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Prompt GPT",
+    "description": "Ce projet vise à améliorer l'efficacité et la précision des interactions avec ChatGPT en fournissant une collection de prompts optimisés.",
+    "version": "1.0.0",
+    "action": {
+        "default_icon": "image.png",
+        "default_popup": "index.html"
+      }
+    
+}
